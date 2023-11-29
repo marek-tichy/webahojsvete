@@ -1,2 +1,1 @@
-# webahojsvete
-pokus s publikovanym webu
+AHOJ SVETE
